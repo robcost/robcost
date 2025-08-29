@@ -4,4 +4,4 @@ With over 25 years as a technologist I have learnt to engage with customers from
 
 By nature I am curious and love to learn, and while I enjoy building.
 
-[![My Skills](https://skillicons.dev/icons?i=ai,aws,gcp,firebase,docker,go,react,expo,vscode,androidstudio,swift,raspberrypi,nodejs,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,aws,gcp,firebase,docker,go,react,vscode,androidstudio,swift,raspberrypi,nodejs,nextjs)](https://skillicons.dev)
