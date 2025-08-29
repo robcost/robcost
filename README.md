@@ -2,6 +2,6 @@ Hi, I'm Rob Costello, I'm an experienced technologist, builder and lifelong lear
 
 With over 25 years as a technologist I have learnt to engage with customers from executive and business leaders, through to technology development and operations teams. Having worked in delivery, architecture, consulting and pre-sales roles, I have developed a broad set of skills across various technologies and organisational types.
 
-By nature I am curious and love to learn, and while I enjoy building.
+By nature I am curious and love to learn, and I enjoy building new things.
 
 [![My Skills](https://skillicons.dev/icons?i=ai,aws,gcp,firebase,docker,ts,js,go,react,vscode,androidstudio,swift,raspberrypi,nodejs,nextjs,github)](https://skillicons.dev)
