@@ -4,4 +4,4 @@ With over 25 years as a technologist I have learnt to engage with customers from
 
 By nature I am curious and love to learn, and I enjoy building new things.
 
-[![My Skills](https://skillicons.dev/icons?i=claudeai,googlegemini,aws,gcp,firebase,docker,ts,js,go,react,reactnative,expo,vscode,androidstudio,swift,raspberrypi,nodejs,nextjs,graphql,github)](https://robcost.com)
+[![My Skills](https://skillicons.dev/icons?i=claudeai,googlegemini,HuggingFace-Light,aws,gcp,firebase,docker,ts,js,go,react,reactnative,expo,vscode,androidstudio,swift,raspberrypi,nodejs,nextjs,graphql,github)](https://robcost.com)
